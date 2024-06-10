@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://tuportafolio.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+    <img width="300" src="https://5.imimg.com/data5/PC/FS/PG/SELLER-6917958/ux-ui-design-services-500x500.png" alt="logo" />
   </a>
 </p>
 
@@ -64,6 +64,7 @@ Puedes visitar mi portafolio en [mi portafolio](https://tuportafolio.com) o segu
 * **[Instagram](https://www.instagram.com/tu_usuario_de_instagram/)**
 * **[LinkedIn](https://www.linkedin.com/in/tuperfil/)**
 
+<img width="700px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/226493857/original/56aa65844cc1b79021734b1a6b8eda9be1334787/do-ui-ux-design-for-website-and-landing-page.png">
 <br />
 <a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
   <table align="right">
